@@ -1,0 +1,84 @@
+html {
+  font-family: sans-serif;
+}
+body{
+    background: #F07167;
+    font: normal 15pt Arial;
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+}
+header {
+  color: #FDFCDC;
+  text-shadow: 2px 2px 2px #0080a786;
+  text-align: center;
+ 
+  
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.288);
+    color: rgba(51, 51, 51, 0.76);
+    
+}
+
+
+/*#envioPalpite{
+    background-color: white;
+    border-radius: 7px;
+    height: 25px;
+    color: #030303;
+    font-weight: bold;
+    
+}*/
+footer {
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-style: italic;
+}
+
+div {
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+input[type="text"] {
+  padding: 5px;
+  width: 200px;
+  border-radius: 0.5em;
+  border-color: #0081A7;
+  font-size: 0.8em;
+}
+
+p {
+  background: #FED9B7;
+  color: #5E2612;
+  padding: 10px;
+  visibility: hidden;
+}
+
+.randomize{
+  background-color: #0081A7;
+  border-radius: 0.5em;
+  color: white;
+  font-size: 0.8em;
+  height: 2em;
+    
+    
+}
+.clean{
+  background-color: white;
+  text-align: right;
+}
+.clean button{
+  border: none;
+  color: #0081A7;
+  font-size:24px;
+  background-color: white;
+}
